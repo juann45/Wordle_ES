@@ -15,3 +15,4 @@ If the tile turns yellow, the letter is in the word, but it is not in the correc
 
 If the tile turns red, the letter is not in the word.
 
+Please go to releases page and get the python file, make sure you got the libraries installed
