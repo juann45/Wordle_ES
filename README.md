@@ -1,7 +1,7 @@
 # Wordle_ES
 
 (v 1.0)
-Just a basic version of Wordly game 
+Just a basic version of Wordly game (this version is currently spanish only)
 
 Please ensure you have the libraries installed on your system
 
